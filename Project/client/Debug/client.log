@@ -1,0 +1,11 @@
+﻿Build started 08/11/2015 10:39:06 AM.
+     1>Project "c:\Users\George\documents\GitHub\ReliableUDP\Project\client\client.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt ftp_tcp.cpp
+         ftp_tcp.cpp
+     1>c:\users\george\documents\github\reliableudp\project\client\ftp_tcp.cpp(24): fatal error C1083: Cannot open include file: 'Thread.h': No such file or directory
+     1>Done Building Project "c:\Users\George\documents\GitHub\ReliableUDP\Project\client\client.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.75
